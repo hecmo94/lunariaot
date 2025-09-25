@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "LunariaOT",
-	"newClientUrl": "https://github.com/hecmo94/lunariaot/releases/download/2/LunariaOT.zip",
+	"newClientUrl": "https://github.com/hecmo94/lunariaot/releases/download/1/LunariaOT.zip",
 	"clientExecutable": "client.exe"
 }
